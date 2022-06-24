@@ -53,5 +53,27 @@
     "price": "2.00",
     "organic": false,
     "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 5,
+    "productName": "Green Apple",
+    "image": "🍏",
+    "from": "Australia",
+    "nutrients": "Vitamin K, Iron",
+    "quantity": "2 🍏",
+    "price": "1.50",
+    "organic": true,
+    "description": "Green apples, as their name suggests, have an even, bright green skin, sometimes greenish-yellow. Fruits with a red blush may have been grown in a cooler climate. The skin is tough with grey or white lenticels. Green apples are medium in size (approximately 2 ¼ inches across) and round-conical in shape, with some ribbing. The Green apple’s white flesh is hard, crispy, and juicy. The flavor of Green apples is extremely acidic, sometimes to the point of not having other taste, but generally refreshing. Green apples grown in South Africa can be sweeter than those fruits grown in other parts of the world."
+  },
+  {
+    "id": 6,
+    "productName": "Cherry",
+    "image": "🍒",
+    "from": "Australia",
+    "nutrients": "Vitamin K, Vitamin A, Vitamin K",
+    "quantity": "2 🍒",
+    "price": "4.50",
+    "organic": true,
+    "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus."
   }
 ]
